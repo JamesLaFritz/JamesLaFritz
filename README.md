@@ -1,7 +1,7 @@
 <a href="https://jameslafritz.intensive.gamedevhq.com/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://ktmarine1999.medium.com/"><img src="https://img.shields.io/badge/Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://ktmarine1999.itch.io/"><img src="https://static.itch.io/images/logo-white-new.svg" width="100"/></a>
+<a href="https://ktmarine1999.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
 ##
 ### Hi there 👋, my name is James LaFritz
 #### I am Unity Developer
