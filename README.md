@@ -10,7 +10,7 @@ Excited about changing my hobby into a new carer with GameDevHQ course. Self Tau
 
 ##
 ### Skills: 
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Game Programming-239120?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Object Oriented Programming (OOP)-239120?style=for-the-badge"/>
@@ -47,7 +47,7 @@ Excited about changing my hobby into a new carer with GameDevHQ course. Self Tau
 * [Slope and Slop Point Formulas](https://blog.devgenius.io/slope-formula-and-slop-point-formula-16f2496dbb86)
 
 ##  
-[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=dark)](https://github.com/JamesLaFritz/github-readme-stats)
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=dark)
 
 <!---
 JamesLaFritz/JamesLaFritz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
