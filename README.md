@@ -46,6 +46,10 @@ Excited about changing my hobby into a new carer with GameDevHQ course. Self Tau
 * [A diffrent way (Best Way)](https://blog.devgenius.io/moving-platform-a-different-way-ce5992cc8dec)
 * [Slope and Slop Point Formulas](https://blog.devgenius.io/slope-formula-and-slop-point-formula-16f2496dbb86)
 
+
+#### Latest
+[![James LaFritz Medium](https://github-readme-medium-silk.vercel.app/?username=@ktmarine1999)](https://medium.com/@ktmarine1999)
+
 ##  
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=dark)
 
