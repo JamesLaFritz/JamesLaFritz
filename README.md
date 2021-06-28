@@ -5,6 +5,9 @@
 ##
 ### Hi there 👋, my name is James LaFritz
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 #### I am Unity Developer
 Excited about changing my hobby into a new carer with GameDevHQ course. Self Taught Unity Developer since 2010. Proven ability to work independently or in a team as well as maintaining high levels of productivity is looking for a quality workplace that is conducive to my skill set while also allowing for individual and company advancement that harbors growth within the field. 
 
