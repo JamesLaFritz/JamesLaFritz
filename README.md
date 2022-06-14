@@ -2,13 +2,13 @@
 <a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://ktmarine1999.medium.com/"><img src="https://img.shields.io/badge/Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://ktmarine1999.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
+  
+![James's GitHub stats](https://github-readme-stats-jameslafritz.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=cobalt)
 ##
 ### Hi there 👋, my name is James LaFritz
 
 #### I am Unity Developer
 Excited about changing my hobby into a new carer with GameDevHQ course. Self Taught Unity Developer since 2010. Proven ability to work independently or in a team as well as maintaining high levels of productivity is looking for a quality workplace that is conducive to my skill set while also allowing for individual and company advancement that harbors growth within the field. 
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -55,8 +55,8 @@ Excited about changing my hobby into a new carer with GameDevHQ course. Self Tau
 #### Latest
 [![James LaFritz Medium](https://github-readme-medium-silk.vercel.app/?username=@ktmarine1999)](https://medium.com/@ktmarine1999)
 
-##  
-![James's GitHub stats](https://github-readme-stats-jameslafritz.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=cobalt)
+##
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!---
 JamesLaFritz/JamesLaFritz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
