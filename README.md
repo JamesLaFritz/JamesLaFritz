@@ -2,6 +2,8 @@
 <a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://ktmarine1999.medium.com/"><img src="https://img.shields.io/badge/Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://ktmarine1999.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
+  
+![James's GitHub stats](https://github-readme-stats-jameslafritz.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=cobalt)
 ##
 ### Hi there 👋, my name is James LaFritz
 
@@ -16,8 +18,6 @@ Skilled in **C#, Unity, OOP, ScriptableObjects, design patterns, and performance
 - **Freelance Technical Writer – LogRocket (2022–Present):** Published articles on **Unity Shader Graph, async/await vs coroutines, C# Job System, and Burst compiler**, helping developers optimize and scale their projects.  
 
 I bring strong **collaboration, documentation, and problem-solving skills** with proven ability to deliver results independently and in team environments.     
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -71,8 +71,8 @@ I bring strong **collaboration, documentation, and problem-solving skills** with
 #### Latest
 [![James LaFritz Medium](https://github-readme-medium-silk.vercel.app/?username=@ktmarine1999)](https://medium.com/@ktmarine1999)
 
-##  
-![James's GitHub stats](https://github-readme-stats-jameslafritz.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=cobalt)
+##
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!---
 JamesLaFritz/JamesLaFritz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
