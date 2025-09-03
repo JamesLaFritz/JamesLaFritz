@@ -5,8 +5,17 @@
 ##
 ### Hi there 👋, my name is James LaFritz
 
-#### I am Unity Developer
-Excited about changing my hobby into a new carer with GameDevHQ course. Self Taught Unity Developer since 2010. Proven ability to work independently or in a team as well as maintaining high levels of productivity is looking for a quality workplace that is conducive to my skill set while also allowing for individual and company advancement that harbors growth within the field. 
+#### Unity & Game Developer | C# Programmer | Technical Writer
+
+I’m a **Unity Developer** with 3+ years of experience creating **2D, 2.5D, 3D, and mobile games**.  
+Skilled in **C#, Unity, OOP, ScriptableObjects, design patterns, and performance optimization**, I build clean and scalable gameplay systems.  
+
+💼 **Recent Experience**  
+- **Independent Contractor – Rara Games (2023):** Built advanced systems for *Castouts*, including a configurable bug reporting wizard, screenshot annotation tools, and a dynamic settings management system with local/cloud persistence.  
+- **Unity Developer – GameDevHQ (2021–Present):** Developed multiple Unity projects (2D shooter, 2.5D platformer, 3D stealth, mobile Metroidvania) and reusable frameworks using ScriptableObjects and custom inspectors.  
+- **Freelance Technical Writer – LogRocket (2022–Present):** Published articles on **Unity Shader Graph, async/await vs coroutines, C# Job System, and Burst compiler**, helping developers optimize and scale their projects.  
+
+I bring strong **collaboration, documentation, and problem-solving skills** with proven ability to deliver results independently and in team environments.     
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
@@ -14,13 +23,20 @@ Excited about changing my hobby into a new carer with GameDevHQ course. Self Tau
 
 
 ##
-### Skills: 
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Game Programming-239120?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object Oriented Programming (OOP)-239120?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design Principles-239120?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID Design Principles-239120?style=for-the-badge"/>
+### Skills  
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Game_Development-FF6F00?style=for-the-badge&logo=unity&logoColor=white"/>  
+<img src="https://img.shields.io/badge/OOP-239120?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Design_Patterns-0066CC?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/SOLID_Principles-FF0000?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/ScriptableObjects-7952B3?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Custom_Editors-4CAF50?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Performance_Optimization-8A2BE2?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Technical_Writing-333333?style=for-the-badge&logo=medium&logoColor=white"/> 
+
 
 ##
 ### Articles:
