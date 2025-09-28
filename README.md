@@ -1,28 +1,51 @@
-<a href="https://jameslafritz.intensive.gamedevhq.com/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://ktmarine1999.medium.com/"><img src="https://img.shields.io/badge/Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://ktmarine1999.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
-  
-![James's GitHub stats](https://github-readme-stats-jameslafritz.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=cobalt)
-##
-### Hi there 👋, my name is James LaFritz
+<!-- Banner Illustration -->
+<p align="center">
+  <img src="./AvatarBanner.png" alt="Unity Game Developer Banner" style="max-width: 100%; border-radius: 10px;">
+</p>
 
-#### Unity & Game Developer | C# Programmer | Technical Writer
+<p align="center">
+  <a href="https://jameslafritz.intensive.gamedevhq.com/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://ktmarine1999.medium.com/"><img src="https://img.shields.io/badge/Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://ktmarine1999.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
+</p>
 
-I’m a **Unity Developer** with 3+ years of experience creating **2D, 2.5D, 3D, and mobile games**.  
-Skilled in **C#, Unity, OOP, ScriptableObjects, design patterns, and performance optimization**, I build clean and scalable gameplay systems.  
+<p align="center">
+   <img src="https://github-readme-stats-jameslafritz.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=cobalt"/>
+</p>
 
-💼 **Recent Experience**  
-- **Independent Contractor – Rara Games (2023):** Built advanced systems for *Castouts*, including a configurable bug reporting wizard, screenshot annotation tools, and a dynamic settings management system with local/cloud persistence.  
-- **Unity Developer – GameDevHQ (2021–Present):** Developed multiple Unity projects (2D shooter, 2.5D platformer, 3D stealth, mobile Metroidvania) and reusable frameworks using ScriptableObjects and custom inspectors.  
-- **Freelance Technical Writer – LogRocket (2022–Present):** Published articles on **Unity Shader Graph, async/await vs coroutines, C# Job System, and Burst compiler**, helping developers optimize and scale their projects.  
+<h1 align="center">Hi, I'm James LaFritz 👋</h1>
 
-I bring strong **collaboration, documentation, and problem-solving skills** with proven ability to deliver results independently and in team environments.     
+<p align="center"><em>
+Game Developer specializing in Unity, C#, and performance-driven 2D/3D gameplay systems | Published Tech Writer
+</em></p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎮 **Unity Developer** with 3+ years of experience building 2D, 2.5D, 3D, and mobile games.
+- 🛠️ **Core Skills:** Unity, C#, OOP, ScriptableObjects, design patterns, performance optimization, clean and scalable gameplay systems.
+- 📝 **Published Technical Writer** (LogRocket, Medium) sharing insights on Unity, C#, shaders, and game architecture.
+- 🤝 Strong collaborator, thorough documenter, and creative problem-solver—delivering results both independently and in teams.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
+---
 
-##
+### 💼 Recent Experience
+
+- **Independent Contractor, Rara Games (2023):**  
+  Developed advanced systems for _Castouts_: bug reporting wizard, screenshot annotation, and dynamic local/cloud settings management.
+
+- **Unity Developer, GameDevHQ (2021–Present):**  
+  Built multiple Unity projects (2D shooter, 2.5D platformer, 3D stealth, mobile Metroidvania) and robust frameworks with ScriptableObjects and custom inspectors.
+
+- **Freelance Tech Writer, LogRocket (2022–Present):**  
+  Published deep-dive articles on Unity Shader Graph, async/await vs coroutines, C# Job System, and Burst compiler.
+
+---
+
 ### Skills  
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> 
@@ -35,10 +58,62 @@ I bring strong **collaboration, documentation, and problem-solving skills** with
 <img src="https://img.shields.io/badge/Custom_Editors-4CAF50?style=for-the-badge"/>  
 <img src="https://img.shields.io/badge/Performance_Optimization-8A2BE2?style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Technical_Writing-333333?style=for-the-badge&logo=medium&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Technical_Writing-333333?style=for-the-badge&logo=medium&logoColor=white"/>
+
+---
+
+### 🚀 Featured Projects
+
+- [**Unity6CoreFramework**](https://github.com/JamesLaFritz/Unity6CoreFramework):  
+  Modular Unity framework with reusable systems and a powerful noise framework.
+
+- [**2.5D Platformer**](https://github.com/JamesLaFritz/2.5DPlatformer) ([Play on Itch.io](https://ktmarine1999.itch.io/25d-platformer)):  
+  Physics-driven platformer featuring moving platforms, switches, elevators, wall/double jump, and pressure pads.
+
+- [**GalaxyShooter2D**](https://github.com/JamesLaFritz/GalaxyShooter2D) ([Play on Itch.io](https://ktmarine1999.itch.io/galaxy-shooter)):  
+  Action shooter with ledge grab system, ladder climbing, and dynamic platform elements.
+
+- [**The Great Fleece**](https://github.com/JamesLaFritz/TheGreatFleece) ([Play on Itch.io](https://ktmarine1999.itch.io/the-great-fleece)):  
+  3D stealth point-and-click game—full gameplay built from scratch (AI, cutscenes, animation, lighting, timeline).
+
+---
+
+### 📝 Favorite Articles
+
+- [ScriptableObject Game Events](https://medium.com/dev-genius/scriptableobject-game-events-1f3401bbde72)  
+  Robust event-driven architecture in Unity.
+
+- [Camera Shake](https://ktmarine1999.medium.com/camera-shake-22a0dce41393)  
+  Making your gameplay impactful with dynamic camera shake.
+
+- [Completing the Ledge Grabbing System](https://blog.devgenius.io/completing-the-ledge-grabbing-system-9a4fef94be3b)  
+  Advanced ledge grabbing using IK and state machines.
+  
+#### Latest
+[![James LaFritz Medium](https://github-readme-medium-silk.vercel.app/?username=@ktmarine1999)](https://medium.com/@ktmarine1999)
+
+---
+
+### 🌐 Connect & Learn More
+
+- <a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="https://ktmarine1999.medium.com/"><img src="https://img.shields.io/badge/Medium Blog-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+- <a href="https://ktmarine1999.itch.io/"><img src="https://img.shields.io/badge/Itch.io Portfolio-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
+- <a href="https://JamesLaFritz.github.io/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+---
+
+<p align="center">
+  <img src="./AvatarRing.png" alt="JamesLaFritz avatar" width="120" style="border-radius: 50%;">
+</p>
+
+<p align="center">
+  <em>Let's connect, collaborate, and build something amazing!</em>
+</p>
 
 
-##
+<!-- Not Used
+
 ### Articles:
 #### General
 * [Singleton Pattern](https://blog.devgenius.io/game-programming-pattern-singleton-4a0070ca489b)
@@ -66,20 +141,4 @@ I bring strong **collaboration, documentation, and problem-solving skills** with
 * [Part 2](https://blog.devgenius.io/moving-platform-part-2-71b3addbc462)
 * [A diffrent way (Best Way)](https://blog.devgenius.io/moving-platform-a-different-way-ce5992cc8dec)
 * [Slope and Slop Point Formulas](https://blog.devgenius.io/slope-formula-and-slop-point-formula-16f2496dbb86)
-
-
-#### Latest
-[![James LaFritz Medium](https://github-readme-medium-silk.vercel.app/?username=@ktmarine1999)](https://medium.com/@ktmarine1999)
-
-##
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-<!---
-JamesLaFritz/JamesLaFritz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-<a href=""><img src=""/></a>
-All inbuilt themes :-
-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
---->
+ -->
