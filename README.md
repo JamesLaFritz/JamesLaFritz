@@ -10,8 +10,7 @@
   <a href="https://ktmarine1999.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
 </p>
 
-<h1 align="center"><img src="https://capsule-render.vercel.app/api?text=Hi, I'm James LaFritz 👋️&animation=fadeIn&type=waving&color=gradient&height=100&theme=cobalt"/>
-</h1>
+<h1 align="center">Hi, I'm James LaFritz 👋️</h1>
 
 <p align="center"><em>
 Game Developer specializing in Unity, C#, and performance-driven 2D/3D gameplay systems | Published Tech Writer
@@ -108,8 +107,8 @@ Game Developer specializing in Unity, C#, and performance-driven 2D/3D gameplay 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> &nbsp;
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> &nbsp;
 </p>
 
 ---
@@ -166,7 +165,7 @@ Game Developer specializing in Unity, C#, and performance-driven 2D/3D gameplay 
 </p>
 
 <p align="center">
-  <em><img src="https://capsule-render.vercel.app/api?text=Let's connect, collaborate, and build something amazing!&animation=fadeIn&type=waving&color=gradient&height=100&theme=cobalt&section=footer" /></em>
+  <em>Let's connect, collaborate, and build something amazing</em>
 </p>
 
 
