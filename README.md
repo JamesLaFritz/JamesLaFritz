@@ -128,18 +128,17 @@ Game Developer specializing in Unity, C#, and performance-driven 2D/3D gameplay 
 
 ### 📝 Favorite Articles
 
-- [ScriptableObject Game Events](https://medium.com/dev-genius/scriptableobject-game-events-1f3401bbde72)  
-  Robust event-driven architecture in Unity.
+[<img height=256 align="center" src="https://i.imgur.com/po83PxB.png" />](https://blog.devgenius.io/scriptableobject-game-events-1f3401bbde72?source=friends_link&sk=8a1c4fbd76ba740f96b18092e0c92b1d)  
+  
+[<img height=256 align="center" src="https://i.imgur.com/andARSW.png" />](https://medium.com/@ktmarine1999/camera-shake-22a0dce41393)  
 
-- [Camera Shake](https://ktmarine1999.medium.com/camera-shake-22a0dce41393)  
-  Making your gameplay impactful with dynamic camera shake.
-
-- [Completing the Ledge Grabbing System](https://blog.devgenius.io/completing-the-ledge-grabbing-system-9a4fef94be3b)  
-  Advanced ledge grabbing using IK and state machines.
+[<img height=256 align="center" src="https://i.imgur.com/1mVbKEf.png" />](https://blog.devgenius.io/completing-the-ledge-grabbing-system-9a4fef94be3b?source=friends_link&sk=df46b9b12267cc31065bb31d596d9724)  
+  
+  
   
 #### Latest
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ktmarine1999/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ktmarine1999/3" alt="Recent Article">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ktmarine1999/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ktmarine1999/0" alt="Recent Article">
 
 ---
 
