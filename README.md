@@ -166,7 +166,7 @@ Game Developer specializing in Unity, C#, and performance-driven 2D/3D gameplay 
 </p>
 
 <p align="center">
-  <em>Let's connect, collaborate, and build something amazing!</em>
+  <em><img src="https://capsule-render.vercel.app/api?text=Let's connect, collaborate, and build something amazing!&animation=fadeIn&type=waving&color=gradient&height=100&theme=cobalt&section=footer" /></em>
 </p>
 
 
