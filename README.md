@@ -139,9 +139,7 @@ Game Developer specializing in Unity, C#, and performance-driven 2D/3D gameplay 
   
 #### Latest
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ktmarine1999/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ktmarine1999/0" alt="Recent Article 3">
-
-[![Latest Medium Article by James LaFriitz](https://github-readme-medium-silk.vercel.app/?username=@ktmarine1999)](https://medium.com/@ktmarine1999)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ktmarine1999/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ktmarine1999/3" alt="Recent Article">
 
 ---
 
