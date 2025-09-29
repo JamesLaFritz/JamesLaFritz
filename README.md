@@ -128,11 +128,11 @@ Game Developer specializing in Unity, C#, and performance-driven 2D/3D gameplay 
 
 ### 📝 Favorite Articles
 
-[<img height=256 align="center" src="https://i.imgur.com/po83PxB.png" />](https://blog.devgenius.io/scriptableobject-game-events-1f3401bbde72?source=friends_link&sk=8a1c4fbd76ba740f96b18092e0c92b1d)  
+[<img height=128 align="center" src="https://i.imgur.com/po83PxB.png" />](https://blog.devgenius.io/scriptableobject-game-events-1f3401bbde72?source=friends_link&sk=8a1c4fbd76ba740f96b18092e0c92b1d)  
   
-[<img height=256 align="center" src="https://i.imgur.com/andARSW.png" />](https://medium.com/@ktmarine1999/camera-shake-22a0dce41393)  
+[<img height=128 align="center" src="https://i.imgur.com/andARSW.png" />](https://medium.com/@ktmarine1999/camera-shake-22a0dce41393)  
 
-[<img height=256 align="center" src="https://i.imgur.com/1mVbKEf.png" />](https://blog.devgenius.io/completing-the-ledge-grabbing-system-9a4fef94be3b?source=friends_link&sk=df46b9b12267cc31065bb31d596d9724)  
+[<img height=128 align="center" src="https://i.imgur.com/1mVbKEf.png" />](https://blog.devgenius.io/completing-the-ledge-grabbing-system-9a4fef94be3b?source=friends_link&sk=df46b9b12267cc31065bb31d596d9724)  
   
   
   
