@@ -117,10 +117,14 @@ Game Developer specializing in Unity, C#, and performance-driven 2D/3D gameplay 
 
 [![**Unity6CoreFramework**](https://github-readme-stats.vercel.app/api/pin/?username=JamesLaFritz&repo=Unity6CoreFramework&theme=cobalt)](https://github.com/JamesLaFritz/Unity6CoreFramework)
 
+---
+
 [![**GalaxyShooter2D**](https://github-readme-stats.vercel.app/api/pin/?username=JamesLaFritz&repo=GalaxyShooter2D&theme=cobalt)](https://github.com/JamesLaFritz/GalaxyShooter2D)
 [![Play on Itch.io](https://img.shields.io/badge/Play%20On%20Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://ktmarine1999.itch.io/galaxy-shooter)
 
 <iframe frameborder="0" src="https://itch.io/embed/986705?linkback=true&amp;dark=true" width="552" height="167"><a href="https://ktmarine1999.itch.io/galaxy-shooter">Galaxy Shooter by James LaFritz</a></iframe>
+
+---
 
 [![**The Great Fleece**](https://github-readme-stats.vercel.app/api/pin/?username=JamesLaFritz&repo=TheGreatFleece&theme=cobalt)](https://github.com/JamesLaFritz/TheGreatFleece)
 [![Play on Itch.io](https://img.shields.io/badge/Play%20On%20Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://ktmarine1999.itch.io/the-great-fleece)
